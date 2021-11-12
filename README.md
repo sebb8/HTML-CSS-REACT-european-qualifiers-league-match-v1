@@ -5,7 +5,7 @@
 > REACT 
 + tailwind css
 + flag-icon-css 
-+ Data JSON
++ data JSON
 
 > CMD 
 1. folder [european-qualifiers-league-match-v1]
